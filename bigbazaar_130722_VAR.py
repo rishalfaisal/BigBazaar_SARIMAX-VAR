@@ -186,7 +186,7 @@ plt.show()
 
 
 
-'''
+
 ################### VAR ########################
 
 
@@ -257,4 +257,3 @@ df_forecast = pd.DataFrame(fc, index=test.index, columns=test.columns)
 df_forecast
 
 
-'''
